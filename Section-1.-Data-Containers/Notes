@@ -1,14 +1,19 @@
 Python Lists
-  - the indexing and slicing is very similar to NumPy arrays
-  - are felxible and efficient containers for heterogeneous data
-  - can use where order of elements matters or where it can be addressed by a numeral
-  - use the slicing syntax to operate on sublists
+- the indexing and slicing is very similar to NumPy arrays
+- are felxible and efficient containers for heterogeneous data
+- can use where order of elements matters or where it can be addressed by a numeral
+- use the slicing syntax to operate on sublists
 
 
 Python Dictionaries
-  - map names to values
-  - are similar to Pandas DataFrames
- 
+- map names to values
+- are similar to Pandas DataFrames
+- use where data items have, or can be, given labels
+- most appropriate for collecting data items of different kinds
+	 
 
-Python Comprehensinos
-  - Lets us create and modify lists and dicts with great ease
+
+Python Comprehensions
+- Lets us create and modify lists and dicts with great ease
+- are quick to write, easy to parse, and surprisingly powerful
+- In many programming problems, all that you’re doing is creating and manipulating lists and dictionaries and comprehensions are an easy way to do that 
