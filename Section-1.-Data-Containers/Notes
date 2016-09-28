@@ -1,0 +1,9 @@
+Python Lists
+  - the indexing and slicing is very similar to NumPy arrays
+
+
+Python Dictionaries
+  - are similar to Pandas DataFrames
+
+Python Comprehensinos
+  - Lets us create and modify lists and dicts with great ease
