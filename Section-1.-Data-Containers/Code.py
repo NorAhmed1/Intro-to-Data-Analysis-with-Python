@@ -22,6 +22,14 @@ print (months[-1])
 
 
 
-OUTPUT
-
+#OUTPUT
+#Huey
+#Louie
+#3
+#[1, [2, 3], 'alpha']
+#['Huey', 'Dewey', 'Louie', 'April']
+#['Huey', 'Dewey', 'Louie', 'April', 'June', 'July']
+#['Huey', 'Dewey', 'Louie', 'April', 'June', 'July', 'August']
+#['April', 'August', 'Dewey', 'Huey', 'July', 'June', 'Louie']
+#Louie
 
