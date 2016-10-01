@@ -1,0 +1,11 @@
+NumPy
+  - is the fundamental package for scientific computing within Python
+  - reserves a space in memory and lays down all those values side by side
+  - it’s also necessary to interface Python with other languages such as C or Fortran, which count on data being laid out in memory in a simple fashion
+
+NumPy dtypes
+  - NumPy identifies several types of integers, depending on the number of bits that they take in they memorial presentation
+    - Integers: numpy.int8, numpy.int16, numpy.int32, numpy.int64, 
+        - Unsigned: numpy.uint8, etc. 
+    - Floating-point number: numpy.float32, numpy.float64, numpy.float128
+        - Complex: numpy.complex64, etc
